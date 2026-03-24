@@ -6,7 +6,6 @@ using namespace std;
 
 class BigNum {
 private:
-    // digits are stored in normal order, e.g. "123" -> {1,2,3}
     vector<int> digits;
     int base;
 
